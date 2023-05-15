@@ -38,3 +38,6 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Use with Promos API
+This SPA app was designed to present promos fetched from the [Promos API](https://github.com/OktaEdu/okta-ice-promos-api). Logic for this is found in `@/views/Promos.vue`
