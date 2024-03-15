@@ -1,5 +1,7 @@
 # Okta Ice Single Page Application (SPA)
 
+#### Disclaimer: The following is intended for educational purposes only. Not meant for production.
+
 This is a sample application written with Okta's Vue SDK and AuthJS SDK.
 There are two methods of Authentication modelled in this application that can be toggled in the `Login` component (`components/Login.vue`).
 
